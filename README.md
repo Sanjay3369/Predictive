@@ -4,9 +4,9 @@
 1.1  GRU theory
 1.2  EXECUTION
 
-2.3 TWITTER SCRAPPING execution
-2.3.1  health data
-2.3.2  covid data
+2.1 TWITTER SCRAPPING execution
+2.1.1  health data
+2.1.2  covid data
 
 2.2  paper1
      Sensors for continous monitoring of surgeons cognitive workland in the cardiac operating room

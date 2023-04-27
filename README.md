@@ -8,8 +8,13 @@ Human stress detection
 Predictive Analytics with case studies-(CSE3085)_SLOT:- F1
 
 Team Members
+
 20MIA1031 -   SANJAY.M
+
 20MIA1039-   SRIGANTH R
+
 20MIA1106-    MADHU KIRAN P
+
 20MIA1117-   PILLARAM MANOJ
+
 20MIA1162 -   GUNA SHANKAR.S

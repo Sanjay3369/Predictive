@@ -23,4 +23,4 @@ colab:- https://colab.research.google.com/drive/1LaV_Epaxw6bSKBY6WmcA50Vggnv5K_t
 
 dataset:- https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep?select=SaYoPillow.csv
 
-youtube link of project execution video:-  
+youtube link of project execution video:-   https://youtu.be/DTGxVO9ogHk

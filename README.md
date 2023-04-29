@@ -19,4 +19,8 @@ Team Members
 
 20MIA1162 -   GUNA SHANKAR.S
 
-https://colab.research.google.com/drive/1LaV_Epaxw6bSKBY6WmcA50Vggnv5K_tB?usp=sharing 
+colab:- https://colab.research.google.com/drive/1LaV_Epaxw6bSKBY6WmcA50Vggnv5K_tB?usp=sharing 
+
+dataset:- https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep?select=SaYoPillow.csv
+
+youtube link of project execution video:-  
